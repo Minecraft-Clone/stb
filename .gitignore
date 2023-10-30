@@ -1,3 +1,25 @@
+bin/
+build/
+winbuild
+win64build
+.vs/
+*.a
+*.so
+*.la
+*.dll
+*.lai
+*.lib
+*.dylib
+*.sln
+*.vcxproj
+*.vcxproj.*
+
 *.o
 *.obj
 *.exe
+
+## kdevelop
+*.kdev4
+
+## qt-creator
+CMakeLists.txt.user*
